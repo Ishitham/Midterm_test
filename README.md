@@ -7,6 +7,9 @@ This Tableau project analyzes startup investments from Shark Tank India, coverin
 - What industries attract the highest investments?
 - How do startup success metrics (like revenue and margins) vary across industries?
 
+## Link to Data: 
+https://www.kaggle.com/datasets/thirumani/shark-tank-india
+
 ### Problem to Solve:
 The primary problem is identifying which startups receive the highest investments, what factors contribute to their success, and understanding the preferences of each shark in terms of deal types (equity, debt, or royalty). Additionally, it seeks to answer how different industries perform in terms of revenue and investment.
 
